@@ -1,2 +1,2 @@
 # PBO-Semester3
-Praktik dan Teori Pemrograman Berorientasi Objek - Semester 3
+Praktik Pemrograman Berorientasi Objek - Semester 3
