@@ -35,7 +35,7 @@ public class MainAvenged {
 //		 List<SuperHero> superhero = new ArrayList<SuperHero>();
 //		 SuperHero hero = null;
 //		 hero = new ManRay(0,"Gennichiro");
-//		 superhero.add(hero);
+//		 superhero.add(hero); 
 //		 
 //		 hero = new FlyingDutchMan(255,"Shirai");
 //		 superhero.add(hero);
