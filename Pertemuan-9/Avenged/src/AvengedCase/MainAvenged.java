@@ -32,6 +32,23 @@ public class MainAvenged {
 		 addSuperHero(superhero, "Tatenari", 36556, "FlyingDutchMan");
 		 addSuperHero(superhero, "Arnastria", 666, "DirtyBubble");
 		 
+//		 List<SuperHero> superhero = new ArrayList<SuperHero>();
+//		 SuperHero hero = null;
+//		 hero = new ManRay(0,"Gennichiro");
+//		 superhero.add(hero);
+//		 
+//		 hero = new FlyingDutchMan(255,"Shirai");
+//		 superhero.add(hero);
+//		 
+//		 hero = new ManRay(553,"Gyoubu Masataka Oniwa");
+//		 superhero.add(hero);
+//		 
+//		 hero = new FlyingDutchMan(36556,"Tatenari");
+//		 superhero.add(hero);
+//		 
+//		 hero = new DirtyBubble(666,"Arnastria");
+//		 superhero.add(hero);
+		
 		 //sorting dengan comparable
 		 Collections.sort(superhero);
 		
